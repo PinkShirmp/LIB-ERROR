@@ -1,0 +1,6 @@
+C:/Users/doget/Desktop/CmakeLearning/build/CMakeFiles/Tue.dir
+C:/Users/doget/Desktop/CmakeLearning/build/CMakeFiles/edit_cache.dir
+C:/Users/doget/Desktop/CmakeLearning/build/CMakeFiles/rebuild_cache.dir
+C:/Users/doget/Desktop/CmakeLearning/build/lib/CMakeFiles/Adder_Function.dir
+C:/Users/doget/Desktop/CmakeLearning/build/lib/CMakeFiles/edit_cache.dir
+C:/Users/doget/Desktop/CmakeLearning/build/lib/CMakeFiles/rebuild_cache.dir

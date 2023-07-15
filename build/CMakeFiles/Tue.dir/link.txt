@@ -1,0 +1,3 @@
+C:\Users\doget\scoop\apps\cmake\3.26.4\bin\cmake.exe -E rm -f CMakeFiles\Tue.dir/objects.a
+C:\Users\doget\scoop\apps\mingw\current\bin\ar.exe qc CMakeFiles\Tue.dir/objects.a @CMakeFiles\Tue.dir\objects1.rsp
+C:\Users\doget\scoop\apps\mingw\current\bin\c++.exe -Wl,--whole-archive CMakeFiles\Tue.dir/objects.a -Wl,--no-whole-archive -o Tue.exe -Wl,--out-implib,libTue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tue.dir\linkLibs.rsp

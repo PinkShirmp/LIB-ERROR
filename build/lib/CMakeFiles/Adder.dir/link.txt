@@ -1,0 +1,2 @@
+C:\Users\doget\scoop\apps\mingw\current\bin\ar.exe qc libAdder.a CMakeFiles/Adder.dir/Adder.cpp.obj
+C:\Users\doget\scoop\apps\mingw\current\bin\ranlib.exe libAdder.a
